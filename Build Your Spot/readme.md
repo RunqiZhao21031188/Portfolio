@@ -3,9 +3,6 @@
 
 YouTube link：https://youtu.be/4lpnZrvU4Tw 
 
-Game Project download link：https://drive.google.com/drive/folders/1GWJE7qeiMPFzgaEr75stVgRvGGeNx6gV?usp=sharing
-
-Github Link：https://github.com/RunqiZhao21031188/Come-on-Build-your-spot-
 
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(16).png" width="860px" height="500px" alt="lab00-01"/>
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(14).png" width="860px" height="500px" alt="lab00-01"/>

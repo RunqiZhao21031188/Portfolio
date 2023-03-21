@@ -1,7 +1,7 @@
 
 # Come on！Build your spot
 
-YouTube link：https://youtu.be/4lpnZrvU4Tw 
+Video Link： https://www.bilibili.com/video/BV1tb411Z7B4/?vd_source=f94f16366946dcd8e0c6dfff7c41b038   
 
 
 <img src="https://github.com/RunqiZhao21031188/1/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE(16).png" width="860px" height="500px" alt="lab00-01"/>

@@ -1,7 +1,7 @@
 
 # Runqi-Zhao-Final-Project
 # Resonance
-Project video link https://youtu.be/BWLC2S-mx48 
+Project video link https://www.bilibili.com/video/BV1cL411C7hf/?vd_source=f94f16366946dcd8e0c6dfff7c41b038 
 # Brief
 
 This project, featuring the re-creation of historical Chinese culture, such as the Chinese zodiac, is an interactive image installation based on machine learning. It is our sincere expectation that the traditional culture which is gradually neglected will regain its popularity, and meanwhile, get more people to enjoy the heritage of Chinese culture.
